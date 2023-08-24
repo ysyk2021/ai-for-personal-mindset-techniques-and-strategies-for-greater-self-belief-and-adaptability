@@ -1,5 +1,3 @@
-Overview of Available Tools and Technologies
-==========================================================================================================================
 
 Artificial intelligence (AI) offers a wide range of tools and technologies for personal mindset development, including applications for self-reflection, personalized feedback, and customized interventions. In this chapter, we will provide an overview of the available tools and technologies for AI-driven personal mindset development.
 

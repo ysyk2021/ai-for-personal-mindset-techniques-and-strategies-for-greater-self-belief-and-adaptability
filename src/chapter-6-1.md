@@ -1,5 +1,3 @@
-AI-Driven Daily Mindset Practice Assistance
-====================================================================================================
 
 Developing a growth mindset requires consistent daily practice, but it can be challenging to stay motivated and on track. Fortunately, AI technology can help streamline your daily mindset practices and provide personalized assistance to keep you focused and engaged.
 
