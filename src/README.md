@@ -8,3 +8,7 @@ This book, "AI for Personal Mindset: Techniques and Strategies for Greater Self-
 By the end of this book, you will have a deeper understanding of how AI can be leveraged to improve your personal mindset, as well as the skills and strategies needed to succeed in today's fast-paced world. So let's dive in and discover how AI can help you achieve greater self-belief and adaptability!
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
