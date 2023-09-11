@@ -1,5 +1,4 @@
-Chapter 12: Mitigating Risks and Ensuring Compliance
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the importance of mitigating risks and ensuring compliance when using AI for personal mindset techniques and strategies. We discuss potential risks and challenges that individuals may encounter and provide guidance on how to navigate them responsibly.
 

@@ -1,5 +1,4 @@
-Chapter 7: AI-Powered Resilience and Adaptability Assistance
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the role of artificial intelligence (AI) in providing resilience and adaptability assistance to individuals. We delve into how AI can support personal mindset techniques and strategies, helping individuals build resilience, navigate challenges, and adapt to a rapidly changing world.
 

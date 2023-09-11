@@ -1,5 +1,4 @@
-Chapter 2: Overview of Available Tools and Technologies
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we provide an overview of the various tools and technologies available for individuals to enhance their personal mindset, self-belief, and adaptability with the help of artificial intelligence (AI).
 

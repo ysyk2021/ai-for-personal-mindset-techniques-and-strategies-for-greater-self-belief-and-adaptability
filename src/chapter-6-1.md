@@ -1,5 +1,4 @@
-Chapter 4: AI-Driven Daily Mindset Practice Assistance
-======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore how artificial intelligence (AI) can provide valuable assistance in daily mindset practices. We delve into the ways AI can enhance personal growth, self-belief, and adaptability by offering tailored support, reminders, and guidance for effective daily mindset practice.
 

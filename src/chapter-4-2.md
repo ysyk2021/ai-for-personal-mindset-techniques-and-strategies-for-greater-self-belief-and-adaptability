@@ -1,5 +1,4 @@
-Chapter 6: Automated Coping Strategies using AI
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the transformative potential of artificial intelligence (AI) in providing automated coping strategies. We delve into how AI can assist individuals in managing stress, overcoming challenges, and fostering resilience through personalized and adaptive support.
 

@@ -1,5 +1,4 @@
-Chapter 6: Using AI for Identifying Limiting Beliefs and Building Confidence
-============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the transformative potential of artificial intelligence (AI) in identifying and overcoming limiting beliefs while building confidence. We delve into how AI-powered tools can assist individuals in recognizing self-imposed limitations, challenging negative thought patterns, and developing a more resilient and confident mindset.
 

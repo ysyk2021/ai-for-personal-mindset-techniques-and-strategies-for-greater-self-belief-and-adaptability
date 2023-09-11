@@ -1,5 +1,4 @@
-Chapter 8: Selecting the Right Tools for Your Personal Mindset Needs
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we guide readers on how to select the right tools and technologies from the wide array of options available for their personal mindset development. We explore key considerations and provide a framework to help individuals make informed decisions that align with their unique needs and preferences.
 

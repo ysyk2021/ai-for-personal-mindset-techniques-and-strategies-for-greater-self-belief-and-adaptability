@@ -1,5 +1,4 @@
-Chapter 5: Automated Reminders and Goal-Setting using AI
-========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the powerful combination of artificial intelligence (AI) and personal mindset techniques for automated reminders and goal-setting. We delve into how AI can assist individuals in enhancing self-belief, adaptability, and achieving personal goals with the help of intelligent reminders and tailored strategies.
 

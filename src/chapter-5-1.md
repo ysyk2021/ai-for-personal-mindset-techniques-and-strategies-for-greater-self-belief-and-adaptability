@@ -1,5 +1,4 @@
-Chapter 8: AI-Driven Emotional Intelligence Improvement Techniques
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the exciting possibilities of using artificial intelligence (AI) to enhance emotional intelligence. We delve into the ways AI can assist individuals in understanding and managing emotions, developing empathy, and improving overall emotional well-being.
 

@@ -1,5 +1,4 @@
-Chapter 12: Unlocking New Opportunities with AI
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the vast potential of artificial intelligence (AI) in unlocking new opportunities for personal growth, self-belief, and adaptability. We delve into how AI technology can expand horizons, facilitate skill development, foster creativity, and empower individuals to embrace emerging possibilities in an ever-evolving world.
 

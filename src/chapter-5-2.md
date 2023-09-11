@@ -1,5 +1,4 @@
-Chapter 6: Personalized Self-Awareness Recommendations and Interventions Using AI
-=================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the potential of artificial intelligence (AI) in providing personalized self-awareness recommendations and interventions. We delve into how AI can assist individuals in enhancing their self-awareness, understanding their emotions, and developing a deeper insight into themselves.
 
